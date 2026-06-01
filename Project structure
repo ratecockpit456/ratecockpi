@@ -1,0 +1,30 @@
+ratecockpit/
+│
+├── app/
+│   ├── dashboard/
+│   ├── converter/
+│   ├── compare/
+│   ├── alerts/
+│   ├── reports/
+│   └── api/
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── CurrencyConverter.tsx
+│   ├── ForexChart.tsx
+│   ├── ExchangeRateCards.tsx
+│   ├── CountryComparison.tsx
+│   ├── AIInsights.tsx
+│   ├── AlertManager.tsx
+│   └── PDFExporter.tsx
+│
+├── lib/
+│   ├── exchange.ts
+│   ├── openai.ts
+│   ├── postgres.ts
+│   └── calculations.ts
+│
+├── prisma/
+│   └── schema.prisma
+│
+└── database/
