@@ -1,0 +1,7 @@
+const pairs = [
+ "USD/INR",
+ "EUR/USD",
+ "GBP/USD",
+ "USD/JPY",
+ "AUD/USD"
+]
